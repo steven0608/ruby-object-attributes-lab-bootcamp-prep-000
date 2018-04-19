@@ -8,7 +8,7 @@ def name
 end
 
 def job=(job)
-  @job
+  @job=jl
 end
 
 def job
